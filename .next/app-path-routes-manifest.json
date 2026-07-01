@@ -1,0 +1,9 @@
+{
+  "/api/dashboard/route": "/api/dashboard",
+  "/_not-found/page": "/_not-found",
+  "/api/leads/route": "/api/leads",
+  "/api/track/open/[token]/route": "/api/track/open/[token]",
+  "/api/track/click/[token]/route": "/api/track/click/[token]",
+  "/page": "/",
+  "/dashboard/page": "/dashboard"
+}
